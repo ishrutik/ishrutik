@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shruti Shubham</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="Coding" width="400" src="profile.gif">
+<img align="center" alt="Coding" width="400" src="profile.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishrutik" alt="ishrutik" /></a> </p>
 
