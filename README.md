@@ -1,6 +1,6 @@
 [![MasterHead](header.gif)](https://ishrutik.io)
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" >, I'm Shruti Shubham</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50" >, I'm Shruti Shubham</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="profile.gif">
 
